@@ -1,0 +1,30 @@
+/* Style the table element */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Style the table header cells */
+  th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+
+
+  }
+  
+  /* Style the table data cells */
+  td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Style the odd table rows */
+  tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
+ 
+  
